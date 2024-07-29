@@ -1,3 +1,8 @@
 {
     "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
+git
+
+//git remote add origin https://github.com/azizkhonnd/product-fetch-redux-toolkit.git
+//git branch -M main
+//git push -u origin main
